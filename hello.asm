@@ -3,8 +3,8 @@ msg:    db      "Hello, World", 10
 .len:   equ     $ - msg
 
 section .text
-global  _start
-_start:
+global  main
+main:
         mov     eax, 4
         mov     ebx, 1
         mov     ecx, msg
