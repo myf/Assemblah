@@ -1,3 +1,5 @@
 me learning assembly
 ====================
-*using nasm compiler
+* using nasm compiler
+* inspired by the book hacking
+
